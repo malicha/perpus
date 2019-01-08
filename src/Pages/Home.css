@@ -1,0 +1,10 @@
+.awal{
+    background-image: url("https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiu_ofFvNDfAhVHNI8KHRsKBkwQjRx6BAgBEAU&url=https%3A%2F%2Flifestyle.okezone.com%2Fread%2F2018%2F03%2F22%2F196%2F1876669%2Fpameran-buku-terbesar-di-asia-tenggara-hadir-di-indonesia&psig=AOvVaw2O2ICQOec7Ft2V1ttXkR4w&ust=1546565740971307");
+    size: cover;
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: tomato;
+}
